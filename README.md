@@ -10,12 +10,12 @@ Requirements to use the tool:
 
 The result of the application is like this :
 
-![Home Page](1g.png)
+![Home Page](/Dataset%20and%20model/1g.png)
 
-![Alt text](2g.png) 
+![Options to select from](/Dataset%20and%20model/2g.png) 
 
-![Alt text](3g.png) 
+![Link to provide](/Dataset%20and%20model/3g.png) 
 
-![Alt text](4g.png) 
+![Filtered Spam Comment](/Dataset%20and%20model/4g.png) 
 
-![Alt text](5g.png)
+![Report or Deletion based on user identity](/Dataset%20and%20model/5g.png)
