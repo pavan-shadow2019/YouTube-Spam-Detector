@@ -8,3 +8,14 @@ Requirements to use the tool:
 - To install all dependencies: - pip install -U scikit-learn requests joblib pickle5
 
 
+The result of the application is like this :
+
+![Home Page](1g.png)
+
+![Alt text](2g.png) 
+
+![Alt text](3g.png) 
+
+![Alt text](4g.png) 
+
+![Alt text](5g.png)
